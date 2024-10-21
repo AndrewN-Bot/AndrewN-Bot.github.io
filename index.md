@@ -10,11 +10,11 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Encryption Example
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Utilized Python through Visual Studio Code to encrypt and enable a passkey requirement to decrypt the original message.
 
-## Header 2
+## Proof of Ability in Networking via Packet Tracer
 
 > This is a blockquote following a header.
 >
