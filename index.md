@@ -21,12 +21,12 @@ A capstone paper exploring trade-offs between cybersecurity and user convenience
 ### 🔐 Python Encryption Scripts
 Two Python scripts demonstrating password handling and encryption.
 
-- 🧠 [Passkey Generator](projects/PasskeyandEncryptionExample.py)
-- 🔒 [Encryption Tester](projects/EncryptionTest.py)
+- 🧠 [Passkey Generator](PasskeyandEncryptionExample.py)
+- 🔒 [Encryption Tester](EncryptionTest.py)
 
 ---
 
 ### 🌐 Network Routing Simulation
 Cisco Packet Tracer file simulating a secure network route between internal and external systems.
 
-- 🖥️ [Download Packet Tracer File](projects/NetworkRoutingExample.pkt)
+- 🖥️ [Download Packet Tracer File](NetworkRoutingExample.pkt)
